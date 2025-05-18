@@ -4,6 +4,8 @@ CS + Data Science @ William & Mary
 interested in data-driven apps, machine learning, and privacy tech !
 
 **socials:**  
-[![LinkedIn](https://img.shields.io/badge/-linkedin-blue?logo=linkedin)](https://linkedin.com/in/amoolya-thummala)  
+<a href="https://linkedin.com/in/amoolya-thummala" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="24" style="margin-right:10px;" />
+</a>
 
 📫 reach me at amoolya.tummala@gmail.com !
